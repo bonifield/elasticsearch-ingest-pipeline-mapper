@@ -45,4 +45,5 @@ digraph "" {
 ```
 
 graph
-![example](example.png)
+
+![example](https://github.com/bonifield/elasticsearch-ingest-pipeline-mapper/blob/main/example.PNG)
