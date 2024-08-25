@@ -33,6 +33,8 @@ digraph "" {
 
 ## Prerequisites
 
+From the [PyGraphviz Installation Documentation](https://pygraphviz.github.io/documentation/stable/install.html)
+
 ```
 sudo apt-get install graphviz graphviz-dev
 python3 -m pip install pygraphviz
